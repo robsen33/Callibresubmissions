@@ -1,4 +1,4 @@
 Submissions
 ===================
 
-submissions
+submissions.
